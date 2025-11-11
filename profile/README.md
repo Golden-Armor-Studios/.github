@@ -1,21 +1,49 @@
+# ⚔️ Golden Armor Studios
 
-# Golden Armor Studios
+> *Forged in pixels. Fueled by community. Built in the open.*
 
-Welcome to the GitHub home of **Golden Armor Studios**, an indie collective forging vibrant worlds for curious players. Here you'll find the code that powers our games, websites, and internal tools—and the community of developers, artists, and supporters helping them grow.
+Welcome to the forge where our crew shapes new games, tools, and lore. This is the central hub for every prototype, portal, and codebase powering the Golden Armor Studios universe—pull up the blueprint, claim a quest, and build with us.
 
-## 🌐 Explore Our Worlds
-- **Studio Website** → [goldenarmorstudio.art](https://goldenarmorstudio.art)
-- **Community Hub** → join Discord, follow projects, and dive into discussions right from the site.
+---
 
-## 🚀 Active Projects
-- **GoldenArmorStudiosiOS** – Native Swift app with Firebase integration, donor tooling, and custom video-rich UI. ([Repo](https://github.com/Golden-Armor-Studios/GoldenArmorStudiosiOS))
-- **GoldenArmorStudiosWebsite** – Vue 3 + Firebase Hosting experience for supporters, developers, and release news. ([Repo](https://github.com/Golden-Armor-Studios/GoldenArmorStudiosWebsite))
-- **Color-IQ-Spectrum** – Precision palette challenges that sharpen perception. ([Repo](https://github.com/Golden-Armor-Studios/Color-IQ-Spectrum))
-- **BattleDawnPro** – Strategy companion tools and live milestone tracker. ([Repo](https://github.com/Golden-Armor-Studios/BattleDawnPro))
+## 🎮 Worlds in Play
+| Project | What’s Happening | Dive In |
+| --- | --- | --- |
+| **GoldenArmorStudiosiOS** | Swift-powered companion app with Firebase auth, donor journeys, and animated hero scenes. | [Repository](https://github.com/Golden-Armor-Studios/GoldenArmorStudiosiOS) |
+| **GoldenArmorStudiosWebsite** | Vue 3 + Firebase Hosting portal for studio news, supporter perks, and developer logins. | [Repository](https://github.com/Golden-Armor-Studios/GoldenArmorStudiosWebsite) |
+| **Color-IQ-Spectrum** | Palette challenges that hone perception through rapid-fire gradient puzzles. | [Repository](https://github.com/Golden-Armor-Studios/Color-IQ-Spectrum) |
+| **BattleDawnPro** | Tactical companion tools, milestone trackers, and release dashboards for strategy fans. | [Repository](https://github.com/Golden-Armor-Studios/BattleDawnPro) |
 
-## 🤝 Contribute & Connect
-1. Browse the issues in each repository for TODOs, enhancements, and help-wanted tags.
-2. Check the project boards for roadmap context and in-progress work.
-3. Share ideas in GitHub Discussions or hop into Discord for real-time collaboration.
+See the full experience at **[goldenarmorstudio.art](https://goldenarmorstudio.art)**—soundscapes, hero videos, and community spotlights included.
 
-Every pull request, bug report, or wiki update helps us craft the next adventure. Thanks for suiting up with Golden Armor Studios! ⚔️
+---
+
+## 🔥 Why Collaborate?
+- **Shared Universe:** Web, iOS, backend, and art teams cross-pollinate so every launch feels cohesive.
+- **Playable Prototypes:** We love shipping interactive builds early—your feedback often lands in the next sprint.
+- **Open Lore:** Discord events, design drops, and git history weave the ongoing studio narrative.
+- **Adventure Passes:** Donors get insider briefings; contributors earn badges across repos and shout-outs in patch notes.
+
+---
+
+## 🛠️ Quest Board
+1. **Pick a mission** – Browse issues labeled `help wanted`, `good first issue`, or check org-wide project boards.
+2. **Sync with the guild** – Start a Discussion or hop into Discord to riff on mechanics, UI flows, or backend design.
+3. **Build & showcase** – Follow our [Contributing guide](../CONTRIBUTING.md), capture sim footage or screenshots, and document testing in PRs.
+4. **Celebrate** – Drop clips, concept art, or postmortems; we highlight standout contributions on the website and in newsletters.
+
+---
+
+## 🌟 Community Signal Fires
+- Developer diaries, roadmap reveals, and supporter shout-outs arrive first on [goldenarmorstudio.art](https://goldenarmorstudio.art) and Discord.
+- Want to sponsor soundtrack sessions or art collabs? Visit [goldenarmorstudio.art/support](https://goldenarmorstudio.art/support).
+
+---
+
+### 💬 FAQ
+**Can we embed a video background here?**  
+Not currently—GitHub profile READMEs sanitize autoplay video backgrounds for accessibility. We keep the cinematic flair on the website instead.
+
+---
+
+Suit up, sharpen your commits, and let’s light the forge. The next world is waiting. 🛡️🚀
