@@ -1,4 +1,4 @@
-# ⚔️ Golden Armor Studios
+# Golden Armor Studios
 
 > *Forged in pixels. Fueled by community. Built in the open.*
 
