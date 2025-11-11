@@ -19,7 +19,7 @@ See the full experience at **[goldenarmorstudio.art](https://goldenarmorstudio.a
 ---
 
 ## 🔥 Why Collaborate?
-- **Shared Universe:** Web, iOS, backend, and art teams cross-pollinate so every launch feels cohesive.
+- **Shared Universe:** Web, iOS, backend, and artists rock art so rocky that that a caveman would have back problems..
 - **Playable Prototypes:** We love shipping interactive builds early—your feedback often lands in the next sprint.
 - **Open Lore:** Discord events, design drops, and git history weave the ongoing studio narrative.
 - **Adventure Passes:** Donors get insider briefings; contributors earn badges across repos and shout-outs in patch notes.
