@@ -13,12 +13,6 @@ Welcome to the GitHub home of **Golden Armor Studios**, an indie collective forg
 - **Color-IQ-Spectrum** – Precision palette challenges that sharpen perception. ([Repo](https://github.com/Golden-Armor-Studios/Color-IQ-Spectrum))
 - **BattleDawnPro** – Strategy companion tools and live milestone tracker. ([Repo](https://github.com/Golden-Armor-Studios/BattleDawnPro))
 
-## 📣 Highlights From the Studio
-- Rich hero videos and reactive UI that mirror the aesthetic of [goldenarmorstudio.art](https://goldenarmorstudio.art).
-- Donor journeys backed by Stripe + Firebase Functions with transparent supporter perks.
-- Developer news hub and roadmap updates surfaced inside the website and iOS app.
-- Community-first approach—issues, discussions, and feature ideas flow between GitHub and Discord.
-
 ## 🤝 Contribute & Connect
 1. Browse the issues in each repository for TODOs, enhancements, and help-wanted tags.
 2. Check the project boards for roadmap context and in-progress work.
